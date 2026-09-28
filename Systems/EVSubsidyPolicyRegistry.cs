@@ -1,5 +1,4 @@
-﻿// Systems/EVSubsidyPolicyRegistry.cs
-using Colossal.Logging;
+﻿using Colossal.Logging;
 using Colossal.Serialization.Entities;
 using Game;
 using Game.Prefabs;
